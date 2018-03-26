@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<title> 01  </title>
+<creator>32184180</creator>
+<location>images/01.jpg</location>
+<info></info>
+</track>
+<track>
+<title> 02  </title>
+<creator>32184180</creator>
+<location>images/02.jpg</location>
+<info></info>
+</track>
+<track>
+<title> 03  </title>
+<creator>32184180</creator>
+<location>images/03.jpg</location>
+<info></info>
+</track>
+</trackList>
+</playlist>

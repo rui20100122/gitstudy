@@ -1,0 +1,42 @@
+.con,.footer{margin: 0 auto;width:1002px}
+
+.top{background-color: #6e77a0;height:5px;width: 100%;position: fixed;top: 0;left: 0}
+
+.bak{height: 40px}
+
+.con{min-height:740px}
+.con .l{width:250px}
+.con .l ul li a {height:40px;line-height:40px;font-size: 24px; font-weight: bold;padding-left:50px;color: #666666}
+.con .l ul li a:hover{color: #000000}
+.bg01{background-color: #019aac}
+.con .r{width:750px}
+.con .r .ne{}
+.con .r .ne .lleft{float: left}
+.con .r .ne .lright {float: right;margin-right: 15px}
+.title{width:300px;height:50px; line-height:50px;font-weight: bold;font-size: 14px;color: #666666;margin-top:20px}
+.desc{text-indent:2em;width:300px;line-height:180%;color: #666666;font-size: 12px}
+.rde{float: right}
+
+.footer{height: 25px;line-height: 25px;text-align: center;color: #666666}
+
+#dbRoWrap{position:relative}
+#dbRoWrap li{margin:1px}
+#dbRoWrap .dbRo1 {float:left;height:185px;width: 185px}
+#dbRoWrap .dbRo2 {float:left;height:185px;width: 370px}
+#dbRoWrap .dbRo3 {float:left;height:185px;width: 370px}
+#dbRoWrap .dbRo4 {float:left;height:185px;width: 185px}
+#dbRoWrap .dbRo1 img{position:relative;width:185px;height:185px}
+#dbRoWrap .dbRo2 img{position:relative;width:370px;height:185px}
+#dbRoWrap .dbRo3 img{position:relative;width:370px;height:185px}
+#dbRoWrap .dbRo4 img{position:relative;width:185px;height:185px}
+#dbRoWrap .dbRo3 .d01{position:relative;width:100px;height:100px;top:20px;float: left;margin-left: 15px}
+#dbRoWrap .dbRo3 .d1{position:relative;width:100px;height:150px;top:15px;left:0px;float: left}
+#dbRoWrap .dbRo3 .d1 .d02{position:relative;width:250px;height:60px;float: left;font-size: 48px;color: #fbfffc}
+#dbRoWrap .dbRo3 .d1 .d03{position:relative;width:250px;height:90px;float: left; font-size: 28px;color: #fbfffc}
+
+#vtel{font-size:16px;}
+
+.atitle{height:30px;line-height:30px; font-weight:bold; border-bottom:#369 2px solid }
+.acon{float:left;height:40px;line-height:40px;}
+.acon2{height:40px;line-height:40px;}
+.pad{padding:0 80px 0 0}

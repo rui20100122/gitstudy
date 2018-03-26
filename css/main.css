@@ -1,0 +1,25 @@
+/* CSS Document */
+.head,.flash,.news,.con,.foot,.nconh{width:970px;margin-left:auto;margin-right:auto;}
+.head{height:96px;}
+.head .headl{float:left;width:500px;height:96px; text-align:left; line-height:96px;}
+.head .headl span{font-size:36px; font-weight:bold; color:#636363; margin:0 70px;}
+.head .headl img{ position:absolute;top:20px;}
+.head .headr{float:right;width:470px;height:96px; line-height:96px; text-align:right;}
+.head .headr a{padding:40px 20px;}
+.head .headr a:hover{background-color:#78bbe6;}
+.flash{height:302px;border:#fff 2px solid; overflow:hidden;}
+.con{}
+.con .com{height:260px;}
+.con .ncom{height:400px; color:#959597; line-height:200%; }
+.con .com .l{ float:left;width:318px; height:260px;}
+.con .com .l .comd img{border:1px #cfd2d4 solid;margin:0 10px;}
+.con .com .m{ float:left;width:318px; height:260px;}
+.comt{ height:70px; line-height:70px; color:#595959; font-size:24px; text-align:left; padding:0 20px;}
+.comd{ color:#959595; font-size:12px; text-align:left; padding:0 20px;}
+.con .com .r{ float:right;width:318px; height:260px;}
+.foot{height:65px; line-height:65px; color:#959595; text-align:center}
+.news {*overflow:hidden; text-align:center;height:40px; text-align:center;}
+.idear {height:37px;overflow:hidden}
+.idear li{height:37px;width:100%;zoom:1;line-height:37px; color:#666;}
+.nconh{height:60px; line-height:60px; color:#595959; font-size:24px;}
+.nflash{width:100%; background:#01193d; height:169px; text-align:center;}
